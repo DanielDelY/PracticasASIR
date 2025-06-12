@@ -1,0 +1,126 @@
+* { margin: 0px; padding: 0px; }
+html {
+    background-color: white;
+}
+body {
+    padding-top: 20px;
+    text-align: center;
+    background-image: linear-gradient(rgba(227, 76, 38, 1), rgba(240, 101, 41, 0));
+}
+#page {
+    width: 960px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+header {
+    border-radius: 20px 20px 0px 0px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-size: 1.1em;
+    border-bottom: 6px;
+    border-bottom-color: black;
+    border-bottom-style: solid;
+    background-image: linear-gradient(to top, #0170B9, #27AADE);
+    box-shadow: 10px 10px 10px gray;  
+}
+header h1 {
+    background-image: url("./imgs/logo.png");
+    background-repeat:  no-repeat;
+    background-position:  25px center;
+    padding: 20px 100px 20px 100px;   
+}
+nav {
+    font-family: 'Courier New', Courier, monospace;
+    color: silver;
+    font-size: 1.4em;
+    text-align: center;
+    background-image: linear-gradient(to top, rgb(213, 186, 50), rgb(255, 218, 62));
+    box-shadow: 10px 10px 10px gray;
+}
+nav > ul >  li {
+    padding-top: 80px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    list-style-type: none;
+    display: inline-block;
+    text-align: center;
+    cursor: default;
+}
+#book {
+    background-image: url("../curso/imgs/book.png");
+    background-repeat: no-repeat;
+    background-position: center 10px;
+}
+#film {
+    background-image: url("../curso/imgs/film.png");
+    background-repeat: no-repeat;
+    background-position: center 10px;
+}
+#mail {
+    background-image: url("../curso/imgs/mail.png");
+    background-repeat: no-repeat;
+    background-position: center 10px;
+}
+nav > ul > li > a {
+    text-decoration: none;
+    color: white;
+}
+nav > ul > li > a:hover {
+    text-decoration: none;
+    color:orange;
+}
+main {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.8em;
+    background-color: white;
+    box-shadow: 10px 10px 10px gray;
+}
+article {
+    width: 240px;
+    text-align: center;
+    line-height: 1.8em;
+    padding-left: 13px;
+    padding-right: 13px;
+    padding-top: 72px;
+    padding-bottom: 72px;
+    margin: 20px;
+    float: left;
+    overflow: auto;
+
+    border: 5px solid;
+    border-image: url("./imgs/movil.png");
+    border-image-slice: 45% 15%;
+    border-image-width: 15%;
+    border-image-outset: 1;
+}
+article img[alt="Javascript"] {
+    background-image: radial-gradient(#ffffff 0%, #cecece 200%);
+}
+article h2{
+    border-bottom: 1px solid #999999;
+}
+h2 {
+    padding: 10px;
+    font-size: 1.2em;
+    text-shadow: 2px 2px 2px gray;
+}
+footer {
+    border-radius: 0px 0px 20px 20px;
+    clear: both;
+    font-size: 0.7em;
+    color: white;
+    text-align: center;
+    background-image: linear-gradient(to bottom, #0170B9, #27AADE);
+    border-top: 6px solid black;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    box-shadow: 10px 10px 10px gray;
+}
+footer > p > a {
+    color: white;
+}
