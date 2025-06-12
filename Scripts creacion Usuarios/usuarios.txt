@@ -1,0 +1,9 @@
+Pepe:RRHH
+Maria:Informatica
+Pedro:Ventas
+Marta:RRHH
+Ana:Direccion
+Alba:Ventas
+David:Informatica
+Alex:Reclamaciones
+Juan:Reclamaciones
