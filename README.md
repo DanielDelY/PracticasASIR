@@ -1,2 +1,2 @@
-# Pr-cticasASIR
+# PrácticasASIR
 Practicas realizadas en ASIR
