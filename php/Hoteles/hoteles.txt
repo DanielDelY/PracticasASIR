@@ -1,0 +1,13 @@
+Hotel Meliá;Alicante;4
+Hotel Ibis;Málaga;3
+Hotel Bali;Alicante;4
+Hotel Olympia;Valencia;4
+Hotel Bahía;Cádiz;3
+Hotel Costa Azul;Valencia;3
+Hotel Eurostars;Alicante;5
+Hotel El Loreal;Málaga;2
+Hotel Puerto Gris;Cádiz;3
+Hotel Playa;Alicante;2
+Hotel Mari Carmen;Valencia;1
+Hotel Tacita;Cádiz;5
+Hotel Valencia Palace;Valencia;5
